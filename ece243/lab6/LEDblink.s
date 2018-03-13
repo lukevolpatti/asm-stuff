@@ -1,5 +1,6 @@
 .equ RED_LEDS, 0xFF200000
 .equ TIMER, 0xFF202000
+.equ UART, 0xFF201000
 
 /*
 Register allocation:
